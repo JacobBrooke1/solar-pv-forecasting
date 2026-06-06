@@ -1,0 +1,13 @@
+# Dataset (download from Dryad — see README)
+doi_10_5061_dryad_m37pvmd99__v20240908/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
